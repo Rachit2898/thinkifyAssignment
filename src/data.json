@@ -1,0 +1,104 @@
+{
+  "players": [
+    {
+      "playerName": "Virat",
+      "matches": [
+        {
+          "name": "Virat",
+          "opponent": "Rohit",
+          "result": "runner",
+          "score": "34-12"
+        },
+        {
+          "name": "Virat",
+          "opponent": "Rohit",
+          "result": "winner",
+          "score": "44-34"
+        },
+        {
+          "name": "Virat",
+          "opponent": "Kohli",
+          "result": "winner",
+          "score": "44-35"
+        },
+        {
+          "name": "Virat",
+          "opponent": "Kohli",
+          "result": "runner",
+          "score": "35-12"
+        },
+        {
+          "name": "Virat",
+          "opponent": "Kohli",
+          "result": "draw",
+          "score": "12-12"
+        }
+      ],
+      "totalPoints": 7
+    },
+    {
+      "playerName": "Rohit",
+        "matches": [
+          {
+            "name": "Rohit",
+            "opponent": "Virat",
+            "result": "runner",
+            "score": "9-12"
+          },
+          {
+            "name": "Rohit",
+            "opponent": "Dhoni",
+            "result": "draw",
+            "score": "12-12"
+          },
+          {
+            "name": "Rohit",
+            "opponent": "Jadeja",
+            "result": "winner",
+            "score": "34-12"
+          }
+        ],
+        "totalPoints": 4
+    },
+    {
+      "playerName": "Dhoni",
+      "matches": [],
+      "totalPoints": 0
+    },
+    {
+      "playerName": "Kohli",
+      "matches": [],
+      "totalPoints": 0
+    },
+    {
+      "playerName": "Jadeja",
+      "matches": [],
+      "totalPoints": 0
+    },
+    {
+      "playerName": "Bumrah",
+      "matches": [],
+      "totalPoints": 0
+    },
+    {
+      "playerName": "Shikhar",
+      "matches": [],
+      "totalPoints": 0
+    },
+    {
+      "playerName": "Hardik",
+      "matches": [],
+      "totalPoints": 0
+    },
+    {
+      "playerName": "Rahul",
+      "matches": [],
+      "totalPoints": 0
+    },
+    {
+      "playerName": "Pant",
+      "matches": [],
+      "totalPoints": 0
+    }
+  ]
+}
