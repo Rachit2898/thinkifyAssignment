@@ -12,6 +12,8 @@ import PointsTable from "./src/pointsTable";
 const Stack = createNativeStackNavigator();
 const Drawer = createDrawerNavigator();
 
+
+//Dashboard
 const DashboardStack = ({ navigation }) => {
   return (
     <Stack.Navigator>
